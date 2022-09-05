@@ -39,6 +39,12 @@ var annotated_dup =
       [ "Entry", "d9/dde/structdouble__hashing_1_1_entry.html", "d9/dde/structdouble__hashing_1_1_entry" ]
     ] ],
     [ "geometry", "d5/d5f/namespacegeometry.html", [
+      [ "collision", null, [
+        [ "Circle", "d1/d06/classgeometry_1_1collision_1_1_circle.html", "d1/d06/classgeometry_1_1collision_1_1_circle" ],
+        [ "Polygon", "d5/de5/classgeometry_1_1collision_1_1_polygon.html", "d5/de5/classgeometry_1_1collision_1_1_polygon" ],
+        [ "Shape", "df/d23/classgeometry_1_1collision_1_1_shape.html", "df/d23/classgeometry_1_1collision_1_1_shape" ],
+        [ "Vec2", "d6/da5/classgeometry_1_1collision_1_1_vec2.html", "d6/da5/classgeometry_1_1collision_1_1_vec2" ]
+      ] ],
       [ "grahamscan", null, [
         [ "Point", "d7/d48/structgeometry_1_1grahamscan_1_1_point.html", null ]
       ] ],
@@ -172,8 +178,8 @@ var annotated_dup =
     [ "Node", "db/d8b/struct_node.html", null ],
     [ "Point", "d8/dc8/struct_point.html", "d8/dc8/struct_point" ],
     [ "query", "dd/d1b/structquery.html", null ],
-    [ "queue", "db/da9/classqueue.html", "db/da9/classqueue" ],
     [ "Queue", "dc/db5/struct_queue.html", null ],
+    [ "queue", "db/da9/classqueue.html", "db/da9/classqueue" ],
     [ "RBtree", "d8/d72/class_r_btree.html", null ],
     [ "SegmentIntersection", "d4/db4/struct_segment_intersection.html", "d4/db4/struct_segment_intersection" ],
     [ "Solution", "dd/d4f/class_solution.html", null ],

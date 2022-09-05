@@ -138,17 +138,17 @@ var NAVTREEINDEX =
 "annotated.html",
 "cpp/iterator/inserter.html",
 "cpp/utility/forward.html",
-"d1/d9e/prefix__sum__array_8cpp.html#a7c8fd967c36dbba5fdf9c71faed604cf",
-"d3/d92/pancake__sort_8cpp.html",
-"d4/df4/classmachine__learning_1_1neural__network_1_1_neural_network.html#a4c4c6f63ab965317f9471518ee931b89",
-"d6/d2d/modular__inverse__simple_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"d7/d88/namespaceprefix__sum__array.html",
-"d8/dcc/namespacestd.html",
-"da/d50/count__of__trailing__ciphers__in__factorial__n_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"db/d9a/classuint128__t.html#a817b66c32268cf46244058a50db99503",
-"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a5438d0a47850f520b2262b5a42f75b71",
-"de/dd3/namespace_s_h_a.html",
-"globals_func_z.html"
+"d1/d9a/hopcroft__karp_8cpp.html",
+"d3/d7d/brute__force__string__searching_8cpp.html#ae2abaa9caa13fff35e45edca00bee123",
+"d4/dde/classgeometry_1_1jarvis_1_1_convexhull.html#a54df5f9a8f37170bd97c91127664655c",
+"d6/d26/classciphers_1_1_hill_cipher.html#ad36cbcc7a458b3f3a2af0c4aa1126590",
+"d7/d75/postfix__evaluation_8cpp.html#ad77f8c9cc594975756838d498c237cea",
+"d8/dab/classstatistics_1_1stats__computer2.html#ab444d485c9e7db35bdc2ff6b7775291a",
+"da/d39/volume_8cpp.html#a3fdc74c24697ec5bb5c3698c96117c12",
+"db/d9a/classuint128__t.html#a2fda65032d9fdbaf9142a6322654dbdd",
+"dd/d1f/classdsu.html#a696141b8b092466767f4bfe1c5e46cde",
+"de/dc5/intersection__of__two__arrays_8cpp.html",
+"functions_w.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

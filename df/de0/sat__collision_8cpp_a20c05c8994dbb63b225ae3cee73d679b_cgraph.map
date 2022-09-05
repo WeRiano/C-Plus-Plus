@@ -1,0 +1,5 @@
+<map id="geometry::collision::operator&#45;" name="geometry::collision::operator&#45;">
+<area shape="rect" id="node1" title="Negating the x and y element of a vector." alt="" coords="5,37,136,77"/>
+<area shape="rect" id="node2" href="$d6/da5/classgeometry_1_1collision_1_1_vec2.html#a645b3fafeb63698b98c95760915e97df" title="Get function for the x element." alt="" coords="184,5,315,45"/>
+<area shape="rect" id="node3" href="$d6/da5/classgeometry_1_1collision_1_1_vec2.html#a8e2810420b5613630126b2a88dd40567" title="Get function for the y element." alt="" coords="184,69,315,109"/>
+</map>

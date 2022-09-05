@@ -1,0 +1,4 @@
+<map id="geometry::collision::Polygon" name="geometry::collision::Polygon">
+<area shape="rect" id="node1" title="Convex Polygon representation. Consists of a collection of vertices (which are represented by positio..." alt="" coords="5,93,136,133"/>
+<area shape="rect" id="node2" href="$df/d23/classgeometry_1_1collision_1_1_shape.html" title="Abstract shape." alt="" coords="5,5,136,45"/>
+</map>

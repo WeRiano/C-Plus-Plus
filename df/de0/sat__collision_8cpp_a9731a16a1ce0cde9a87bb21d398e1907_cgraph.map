@@ -1,0 +1,5 @@
+<map id="geometry::collision::OverlapOnAxis" name="geometry::collision::OverlapOnAxis">
+<area shape="rect" id="node1" title="Find if two shapes overlap when projected onto an axis." alt="" coords="5,61,136,101"/>
+<area shape="rect" id="node2" href="$df/de0/sat__collision_8cpp.html#acf6f2e740f3e88b806ed5d7fe72c52a8" title="Find if two intervals [min1, max1] and [min2, max2] overlaps." alt="" coords="184,29,315,69"/>
+<area shape="rect" id="node3" href="$df/d23/classgeometry_1_1collision_1_1_shape.html#a1033a34210faa1043cc5ff729d76549d" title="projects the shape onto an axis which creates a finite interval [minRes, maxRes]" alt="" coords="184,93,315,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="geometry/sat_collision.h" name="geometry/sat_collision.h">
+<area shape="rect" id="node1" title="Implementation of the [Hyperplane Separation Theorem] (https://en.wikipedia.org/wiki/Hyperplane_separ..." alt="" coords="13,5,175,31"/>
+<area shape="rect" id="node2" href="$df/de0/sat__collision_8cpp.html" title="Implementation of the [Hyperplane Separation Theorem] (https://en.wikipedia.org/wiki/Hyperplane_separ..." alt="" coords="5,79,183,104"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="geometry::collision::Polygon" name="geometry::collision::Polygon">
+<area shape="rect" id="node1" title="Convex Polygon representation. Consists of a collection of vertices (which are represented by positio..." alt="" coords="27,211,157,251"/>
+<area shape="rect" id="node2" href="$df/d23/classgeometry_1_1collision_1_1_shape.html" title="Abstract shape." alt="" coords="5,108,136,148"/>
+<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/vector.html" title=" " alt="" coords="161,108,311,148"/>
+<area shape="rect" id="node4" href="$d6/da5/classgeometry_1_1collision_1_1_vec2.html" title="2&#45;dimensional vector representation." alt="" coords="171,5,301,45"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="geometry::collision::Circle::Project" name="geometry::collision::Circle::Project">
+<area shape="rect" id="node1" title="Implements @Shape.Project for a circle." alt="" coords="5,5,136,45"/>
+<area shape="rect" id="node2" href="$d6/da5/classgeometry_1_1collision_1_1_vec2.html#a83c57ff8dad6db1cdb4d9e852ebb2708" title="Normalizes @this vector, changing its length to 1." alt="" coords="184,5,315,45"/>
+</map>

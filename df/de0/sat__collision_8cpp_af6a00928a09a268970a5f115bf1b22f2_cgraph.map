@@ -1,0 +1,4 @@
+<map id="geometry::collision::sat" name="geometry::collision::sat">
+<area shape="rect" id="node1" title="Performs the SAT collision algorithm on two 2&#45;dimensional shapes." alt="" coords="5,29,163,55"/>
+<area shape="rect" id="node2" href="$df/d23/classgeometry_1_1collision_1_1_shape.html#a21a2ef2f0f3ddcec8243c03227230c9c" title="projects @this and @otherShape onto all the axes defined by @this and checks for overlapping" alt="" coords="211,22,341,62"/>
+</map>

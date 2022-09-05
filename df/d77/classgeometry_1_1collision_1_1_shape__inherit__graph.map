@@ -1,0 +1,5 @@
+<map id="geometry::collision::Shape" name="geometry::collision::Shape">
+<area shape="rect" id="node1" title="Abstract shape." alt="" coords="83,5,213,45"/>
+<area shape="rect" id="node2" href="$d1/d06/classgeometry_1_1collision_1_1_circle.html" title="Circle representation. Consists of a centre (position vector) and a radius." alt="" coords="5,93,136,133"/>
+<area shape="rect" id="node3" href="$d5/de5/classgeometry_1_1collision_1_1_polygon.html" title="Convex Polygon representation. Consists of a collection of vertices (which are represented by positio..." alt="" coords="160,93,291,133"/>
+</map>

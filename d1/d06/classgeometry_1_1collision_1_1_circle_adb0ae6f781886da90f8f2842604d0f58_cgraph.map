@@ -1,0 +1,8 @@
+<map id="geometry::collision::Circle::SAT" name="geometry::collision::Circle::SAT">
+<area shape="rect" id="node1" title="implements @Shape.SAT for a circle." alt="" coords="5,69,136,109"/>
+<area shape="rect" id="node2" href="$df/d23/classgeometry_1_1collision_1_1_shape.html#ae44df6c5f892e4cc54cf6ed6810a5351" title="Finds the vertex which is closest to a given point." alt="" coords="184,5,363,45"/>
+<area shape="rect" id="node3" href="$d6/da5/classgeometry_1_1collision_1_1_vec2.html#a83c57ff8dad6db1cdb4d9e852ebb2708" title="Normalizes @this vector, changing its length to 1." alt="" coords="208,69,339,109"/>
+<area shape="rect" id="node4" href="$df/de0/sat__collision_8cpp.html#a9731a16a1ce0cde9a87bb21d398e1907" title="Find if two shapes overlap when projected onto an axis." alt="" coords="208,157,339,197"/>
+<area shape="rect" id="node5" href="$df/de0/sat__collision_8cpp.html#acf6f2e740f3e88b806ed5d7fe72c52a8" title="Find if two intervals [min1, max1] and [min2, max2] overlaps." alt="" coords="411,125,541,165"/>
+<area shape="rect" id="node6" href="$df/d23/classgeometry_1_1collision_1_1_shape.html#a1033a34210faa1043cc5ff729d76549d" title="projects the shape onto an axis which creates a finite interval [minRes, maxRes]" alt="" coords="411,189,541,229"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="geometry::collision::Circle" name="geometry::collision::Circle">
+<area shape="rect" id="node1" title="Circle representation. Consists of a centre (position vector) and a radius." alt="" coords="83,108,213,148"/>
+<area shape="rect" id="node2" href="$df/d23/classgeometry_1_1collision_1_1_shape.html" title="Abstract shape." alt="" coords="5,5,136,45"/>
+<area shape="rect" id="node3" href="$d6/da5/classgeometry_1_1collision_1_1_vec2.html" title="2&#45;dimensional vector representation." alt="" coords="160,5,291,45"/>
+</map>

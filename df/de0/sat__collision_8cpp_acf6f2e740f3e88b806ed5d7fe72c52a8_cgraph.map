@@ -1,0 +1,3 @@
+<map id="geometry::collision::DoOverlap" name="geometry::collision::DoOverlap">
+<area shape="rect" id="node1" title="Find if two intervals [min1, max1] and [min2, max2] overlaps." alt="" coords="5,29,136,69"/>
+</map>

@@ -42,7 +42,7 @@ var hierarchy =
     [ "data_structures::linked_list::link", "de/d9d/classdata__structures_1_1linked__list_1_1link.html", null ],
     [ "linkedlist", "d0/dff/structlinkedlist.html", null ],
     [ "data_structures::linked_list::list", "d1/def/classdata__structures_1_1linked__list_1_1list.html", null ],
-    [ "data_structures::list_array::list", "d5/dab/structdata__structures_1_1list__array_1_1list.html", null ],
+    [ "data_structures::list_array::list< N >", "d5/dab/structdata__structures_1_1list__array_1_1list.html", null ],
     [ "list", "d8/d10/structlist.html", null ],
     [ "graph::LowestCommonAncestor", "d9/d23/classgraph_1_1_lowest_common_ancestor.html", null ],
     [ "others::lru_cache::LRUCache", "d6/dae/classothers_1_1lru__cache_1_1_l_r_u_cache.html", null ],
@@ -72,13 +72,17 @@ var hierarchy =
     [ "math::Point", "de/d4f/structmath_1_1_point.html", null ],
     [ "Point", "d8/dc8/struct_point.html", null ],
     [ "query", "dd/d1b/structquery.html", null ],
-    [ "queue< Kind >", "db/da9/classqueue.html", null ],
     [ "Queue", "dc/db5/struct_queue.html", null ],
+    [ "queue< Kind >", "db/da9/classqueue.html", null ],
     [ "data_structures::queue_using_array::Queue_Array", "d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html", null ],
     [ "RBtree", "d8/d72/class_r_btree.html", null ],
     [ "SegmentIntersection", "d4/db4/struct_segment_intersection.html", null ],
     [ "range_queries::heavy_light_decomposition::SG< X >", "d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html", [
       [ "range_queries::heavy_light_decomposition::HLD< X >", "d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html", null ]
+    ] ],
+    [ "geometry::collision::Shape", "df/d23/classgeometry_1_1collision_1_1_shape.html", [
+      [ "geometry::collision::Circle", "d1/d06/classgeometry_1_1collision_1_1_circle.html", null ],
+      [ "geometry::collision::Polygon", "d5/de5/classgeometry_1_1collision_1_1_polygon.html", null ]
     ] ],
     [ "data_structures::SkipList", "d4/d90/classdata__structures_1_1_skip_list.html", null ],
     [ "Solution", "dd/d4f/class_solution.html", null ],
@@ -110,5 +114,6 @@ var hierarchy =
     ] ],
     [ "uint128_t", "db/d9a/classuint128__t.html", null ],
     [ "uint256_t", "d1/d83/classuint256__t.html", null ],
+    [ "geometry::collision::Vec2", "d6/da5/classgeometry_1_1collision_1_1_vec2.html", null ],
     [ "probability::windowed_median::WindowedMedian", "df/d34/classprobability_1_1windowed__median_1_1_windowed_median.html", null ]
 ];

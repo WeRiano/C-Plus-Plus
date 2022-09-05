@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['a_0',['a',['http://en.cppreference.com/w/cpp/numeric/random/cauchy_distribution/params.html',0,'std::cauchy_distribution::a()'],['http://en.cppreference.com/w/cpp/numeric/random/uniform_int_distribution/params.html',0,'std::uniform_int_distribution::a()'],['http://en.cppreference.com/w/cpp/numeric/random/weibull_distribution/params.html',0,'std::weibull_distribution::a()'],['http://en.cppreference.com/w/cpp/numeric/random/uniform_real_distribution/params.html',0,'std::uniform_real_distribution::a()'],['http://en.cppreference.com/w/cpp/numeric/random/extreme_value_distribution/params.html',0,'std::extreme_value_distribution::a()']]],
-  ['a_1',['A',['../da/d37/structdata__structures_1_1sparse__table_1_1_sparse__table.html#ab78620742305a35ff2f8d61179f47d3e',1,'data_structures::sparse_table::Sparse_table']]],
+  ['a_0',['A',['../da/d37/structdata__structures_1_1sparse__table_1_1_sparse__table.html#ab78620742305a35ff2f8d61179f47d3e',1,'data_structures::sparse_table::Sparse_table']]],
+  ['a_1',['a',['http://en.cppreference.com/w/cpp/numeric/random/cauchy_distribution/params.html',0,'std::cauchy_distribution::a()'],['http://en.cppreference.com/w/cpp/numeric/random/uniform_int_distribution/params.html',0,'std::uniform_int_distribution::a()'],['http://en.cppreference.com/w/cpp/numeric/random/weibull_distribution/params.html',0,'std::weibull_distribution::a()'],['http://en.cppreference.com/w/cpp/numeric/random/uniform_real_distribution/params.html',0,'std::uniform_real_distribution::a()'],['http://en.cppreference.com/w/cpp/numeric/random/extreme_value_distribution/params.html',0,'std::extreme_value_distribution::a()']]],
   ['a1z26_2',['a1z26',['../d8/d2a/namespacea1z26.html',1,'']]],
   ['a1z26_5fcipher_2ecpp_3',['a1z26_cipher.cpp',['../de/db6/a1z26__cipher_8cpp.html',1,'']]],
   ['a_5fstar_5fsearch_4',['a_star_search',['../da/d02/classmachine__learning_1_1aystar__search_1_1_ay_star_search.html#a48284e156fdd48fd0c41008c7e48f201',1,'machine_learning::aystar_search::AyStarSearch']]],
@@ -82,7 +82,7 @@ var searchData=
   ['array_3c_20int64_5ft_2c_20n_20_3e_79',['array&lt; int64_t, N &gt;',['http://en.cppreference.com/w/cpp/container/array.html',0,'std']]],
   ['array_3c_20std_3a_3aarray_3c_20int64_5ft_2c_20n_20_3e_2c_20m_20_3e_80',['array&lt; std::array&lt; int64_t, N &gt;, M &gt;',['http://en.cppreference.com/w/cpp/container/array.html',0,'std']]],
   ['array_3c_20std_3a_3aarray_3c_20uint32_5ft_2c_203_20_3e_2c_203_20_3e_81',['array&lt; std::array&lt; uint32_t, 3 &gt;, 3 &gt;',['http://en.cppreference.com/w/cpp/container/array.html',0,'std']]],
-  ['array_3c_20uint64_5ft_2c_2050_20_3e_82',['array&lt; uint64_t, 50 &gt;',['http://en.cppreference.com/w/cpp/container/array.html',0,'std']]],
+  ['array_3c_20uint64_5ft_2c_20n_20_3e_82',['array&lt; uint64_t, N &gt;',['http://en.cppreference.com/w/cpp/container/array.html',0,'std']]],
   ['array_5fleft_5frotation_2ecpp_83',['array_left_rotation.cpp',['../d9/d14/array__left__rotation_8cpp.html',1,'']]],
   ['array_5fright_5frotation_2ecpp_84',['array_right_rotation.cpp',['../d6/d57/array__right__rotation_8cpp.html',1,'']]],
   ['asctime_85',['asctime',['http://en.cppreference.com/w/cpp/chrono/c/asctime.html',0,'std']]],
